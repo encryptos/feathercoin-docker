@@ -1,1 +1,1 @@
-FROM fc-centos7-dep
+FROM feathercoin/centos7-dep
