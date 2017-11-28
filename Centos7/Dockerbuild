@@ -1,1 +1,1 @@
-docker build -t feathercoin/centos7 -f dockerfile .
+docker build -t feathercoin/centos7 -f Dockerfile .
