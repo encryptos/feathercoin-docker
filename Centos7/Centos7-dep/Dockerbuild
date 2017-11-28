@@ -1,1 +1,1 @@
-docker build -t fc-centos7-dep -f Dockerfile .
+docker build -t feathercoin/centos7-dep -f Dockerfile .
